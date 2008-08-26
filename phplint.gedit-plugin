@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=phplint
+IAge=2
+Name=PHPlint
+Description=quick PHP syntax checks
+Authors=M. Lunzenauer <mlunzena@uos.de>
+Copyright=
+Website=
